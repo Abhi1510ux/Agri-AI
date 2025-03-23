@@ -5,3 +5,4 @@ numpy
 pandas
 requests
 opencv-python
+google-generativeai
