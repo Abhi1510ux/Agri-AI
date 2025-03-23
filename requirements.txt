@@ -6,3 +6,4 @@ pandas
 requests
 opencv-python
 google-generativeai
+python-dotenv
