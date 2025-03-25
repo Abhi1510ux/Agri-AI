@@ -4,7 +4,7 @@ keras
 numpy
 pandas
 requests
-opencv-python
+
 google-generativeai
 python-dotenv
 opencv-python-headless
